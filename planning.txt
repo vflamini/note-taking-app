@@ -1,0 +1,3 @@
+when you type: update an object with lines and properties about that line
+on enter: create a new line in the lines object that is a replica of the previous line just with blank text
+when property buttons are pressed (ex: checkmark button), have it affect either the current line, or the current highlighted selection
